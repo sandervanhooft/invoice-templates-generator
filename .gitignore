@@ -1,5 +1,7 @@
 /node_modules/
 /build_local/
+/build_production/
+/build_staging/
 .DS_Store
 Thumbs.db
 /.idea/
