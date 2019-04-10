@@ -1,3 +1,20 @@
+## Responsive HTML invoice templates ready for email
+
+The templates are directly available for download from the `/build_html` folder. These html files are generated from the `/src` folder contents.
+
+### Contribute
+For further template development, please modify the source files in the `/src` folder, and include the new build when providing a PR to this repository.
+
+These source files heavily rely on [TailwindCSS](http://tailwindcss.com).  
+
+### Roadmap
+
+- [ ] Extend the current basic html invoice template
+- [ ] Add a template for use with [sandervanhooft/laravel-invoicable](https://github.com/sandervanhooft/laravel-invoicable)
+- [ ] Add a template for use with Laravel Cashier Mollie
+
+---
+
 <p align="center"><a href="https://maizzle.com" target="_blank"><img src="https://res.cloudinary.com/maizzle/image/upload/v1553710263/maizzle.svg" width="200" alt="Maizzle"></a></p>
 <p align="center">HTML email development framework</p>
 <p align="center">
