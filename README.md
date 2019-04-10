@@ -5,7 +5,7 @@ The templates are directly available for download from the `/build_html` folder.
 ### Contribute
 For further template development, please modify the source files in the `/src` folder, and include the new build when providing a PR to this repository.
 
-These source files heavily rely on [TailwindCSS](http://tailwindcss.com).  
+These source files make use of [TailwindCSS](http://tailwindcss.com).  
 
 ### Roadmap
 
