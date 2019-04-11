@@ -1,5 +1,9 @@
 ## Responsive HTML invoice templates ready for email
 
+Here are some full-size screenshots of this template in action
+[on an iPad](./screenshots/invoice.html(iPad).png)
+and [on an iPhone SE](./screenshots/invoice.html(iPhone 5_SE).png).
+
 The templates are directly available for download from the `/build_html` folder. These html files are generated from the `/src` folder contents.
 
 ### Contribute
@@ -9,8 +13,7 @@ These source files make use of [TailwindCSS](http://tailwindcss.com).
 
 ### Roadmap
 
-- [ ] Extend the current basic html invoice template
-- [ ] Add a template for use with [sandervanhooft/laravel-invoicable](https://github.com/sandervanhooft/laravel-invoicable)
+- [ ] Add a template for use with [sandervanhooft/lravel-invoicable](https://github.com/sandervanhooft/laravel-invoicable)
 - [ ] Add a template for use with Laravel Cashier Mollie
 
 ---
